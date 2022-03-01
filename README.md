@@ -1,4 +1,4 @@
-#Hi, welcome to Gwen's github.
+*Hi, welcome to Gwen's github.*
 
 I will be edithing this as I develop my skills and knowledge in my career path. 
 
